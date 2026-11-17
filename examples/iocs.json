@@ -1,0 +1,4 @@
+[
+  {"type":"domain","value":"EXAMPLE.org.","source":"fixture-only","observed_at":"2026-01-01","confidence":"unknown"},
+  {"type":"ipv4","value":"192.0.2.10","source":"documentation-range-fixture","observed_at":"2026-01-01","confidence":"unknown"}
+]
